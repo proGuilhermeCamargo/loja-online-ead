@@ -8,5 +8,8 @@ function calcularTotal (itens) {
         total += itens[i].preco * 1.1
     }
 
+    // Aplica desconto de fidelidade
+    // Antes de retornar o valor final
+
     return total;
 }
