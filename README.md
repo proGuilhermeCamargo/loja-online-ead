@@ -1,4 +1,4 @@
-# Loja Online
+# Loja Online - Camapanha de black friday
 
 ## Contato
 Duvidas: contato@loja.com.br
