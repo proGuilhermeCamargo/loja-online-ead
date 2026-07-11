@@ -1,4 +1,4 @@
-# Loja Online - Camapanha de black friday
+# Loja Online - Campanha de natal
 
 ## Contato
 Duvidas: contato@loja.com.br
