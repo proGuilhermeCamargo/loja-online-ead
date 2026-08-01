@@ -4,10 +4,10 @@ Projeto de e-commerce desenvolvido na disciplina git, Agile & Dev culture.
 
 ## Como rodar
 
-git clone https://github.com/proGuilhermeCamargo/loja-online-ead.git
-cd loja-online-ead
-npm install
-npm start
+- git clone https://github.com/proGuilhermeCamargo/loja-online-ead.git
+- cd loja-online-ead
+- npm install
+- npm start
 
 ## Estrutura
 
